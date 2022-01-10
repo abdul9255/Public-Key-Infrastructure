@@ -374,7 +374,7 @@ On the server VM, open /etc/apache2/sites-available/default-ssl.conf and add the
 </VirtualHost>
 
 ```
-![task5a](https://github.com/Asad-Ali-Code/Public-Key-Infrastructure/blob/main/task5a.PNG)
+![task5a](https://github.com/abdul9255/Public-Key-Infrastructure/blob/main/5.PNG)
 
 Restart Apache:
 ```
